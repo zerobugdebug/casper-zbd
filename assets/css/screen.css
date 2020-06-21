@@ -874,6 +874,12 @@ body {
     opacity: 0.5;
 }
 
+.nav-post-title-active .site-nav-content {
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(-175%);
+}
+
 .nav-post-title {
     visibility: hidden;
     position: absolute;
