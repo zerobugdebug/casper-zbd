@@ -1036,7 +1036,7 @@ body {
 }
 
 .post-card {
-    flex: 1 1 301px;
+    flex: 0 0 300px;
     flex-direction: column;
     overflow: hidden;
     margin: 0 0 40px;
