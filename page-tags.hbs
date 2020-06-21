@@ -13,17 +13,6 @@
 
     {{!-- The main content area --}}
     <main id="site-main" class="site-main outer">
-        <style scoped>
-            .inner-page-tags {
-                margin-top: inherit;
-            }
-
-            @media (min-width: 900px) {
-                .inner-page-tags {
-                    margin-top: -8vw;
-                }
-            }
-        </style>
         <div class="inner inner-page-tags">
             <div class="post-feed">
                 {{#get 'tags' limit='all' include='count.posts' order='count.posts desc'}}
