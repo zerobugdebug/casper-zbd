@@ -42,11 +42,13 @@ into the {body} of the default.hbs template --}}
                 <header class="post-full-header">
 
                     {{#if tags}}
-                        <section class="post-full-tags">
+                        <ul class="post-full-tags">
                             {{#foreach tags}}
-                                &nbsp;<a href="{{url}}">{{name}}</a>
+                                <li class="tag-{{slug}}">
+                                    <a href="{{url}}">{{name}}</a>
+                                </li>
                             {{/foreach}}
-                        </section>
+                        </ul>
                     {{/if}}
 
                     <h1 class="post-full-title">{{title}}</h1>
