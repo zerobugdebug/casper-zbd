@@ -874,7 +874,7 @@ body {
     opacity: 0.5;
 }
 
-.nav-post-title-active .site-nav-content {
+.nav-post-title-active .site-nav-content .nav {
     visibility: hidden;
     opacity: 0;
     transform: translateY(-175%);
