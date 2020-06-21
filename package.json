@@ -1,0 +1,9 @@
+{
+    "name": "casper-zbd",
+    "description": "ZeroBugDebug theme based on the Casper",
+    "version": "1.0.0",
+    "author": {
+        "name": "Alex Prosveer",
+        "email": "aprosveer@zerobugdebug.ca"
+    }
+}
