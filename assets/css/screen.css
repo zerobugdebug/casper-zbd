@@ -1039,7 +1039,7 @@ body {
     flex: 0 0 300px;
     flex-direction: column;
     overflow: hidden;
-    margin: 10px;
+    margin: 20px;
     min-height: 220px;
     border-bottom: 1px solid #e9eef1;
     background-size: cover;
