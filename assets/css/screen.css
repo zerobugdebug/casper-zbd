@@ -1327,7 +1327,7 @@ body {
 .post-full-header {
     position: relative;
     margin: 0 auto;
-    padding: 70px 170px 50px;
+    padding: 70px 100px 50px;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px;
 }
@@ -1407,7 +1407,7 @@ body {
 .post-full-content {
     position: relative;
     margin: 0 auto;
-    padding: 0 170px 6vw;
+    padding: 0 100px 6vw;
     min-height: 230px;
     font-family: Georgia, serif;
     font-size: 2rem;
