@@ -2485,6 +2485,7 @@ body {
     flex-direction: column;
     max-width: 1040px;
     width: 100vw;
+    padding: 0 100px 6vw;
 }
 
 .kg-gallery-row {
